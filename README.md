@@ -1,16 +1,16 @@
-Roda Hussein Abokor
+Hello, I'm Roda Hussein Abokor 👋
 
 Electrical Engineer | Master's Student
 
-I am an Electrical Engineer from Somalia, currently pursuing my Master's degree in Electrical and Electronics Engineering at Necmettin Erbakan University in Türkiye.
+I am an Electrical Engineer from Somalia, currently pursuing a Master's degree in Electrical and Electronics Engineering at Necmettin Erbakan University, Türkiye.
 
-I completed my Bachelor's degree in Electrical Engineering at the University of Hargeisa, Somalia. I am interested in programming, renewable energy, and the practical application of technology in engineering.
+I am passionate about technology, programming, and engineering solutions, particularly in renewable energy and electrical power systems. I enjoy learning new technologies and developing my technical skills.
 
 Education
 
-Master's Degree in Electrical and Electronics Engineering – Necmettin Erbakan University, Türkiye
+Master's Degree: Electrical and Electronics Engineering – Necmettin Erbakan University, Türkiye
 
-Bachelor's Degree in Electrical Engineering – University of Hargeisa, Somalia
+Bachelor's Degree: Electrical Engineering – University of Hargeisa, Somalia
 
 Programming Languages
 
@@ -20,7 +20,7 @@ Java
 
 C++
 
-Engineering Software
+Engineering Software & Tools
 
 MATLAB
 
@@ -36,16 +36,16 @@ Solar Energy
 
 Electrical Power Systems
 
-Computer Vision
-
 Artificial Intelligence
+
+Computer Vision
 
 Engineering Simulation
 
 Currently Learning
 
-I am currently improving my Python skills and learning OpenCV and computer vision. I am interested in exploring how these technologies can be used in engineering applications.
+I am currently improving my Python programming skills and learning OpenCV and Computer Vision. I am interested in applying these technologies to practical engineering problems.
 
-Contact
+Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/roda-hussien-0aaa00442/
