@@ -1,51 +1,12 @@
-Hello, I'm Roda Hussein Abokor 👋
+Hello, I'm Roda Abokor
 
-Electrical Engineer | Master's Student
+I am an Electrical Engineer from Somalia, currently pursuing my Master's degree in Electrical and Electronics Engineering at Necmettin Erbakan University, Türkiye. I earned my Bachelor's degree in Electrical Engineering from the University of Hargeisa, Somalia. My academic background has given me a strong interest in technology, innovation, and practical engineering solutions.
 
-I am an Electrical Engineer from Somalia, currently pursuing a Master's degree in Electrical and Electronics Engineering at Necmettin Erbakan University, Türkiye.
+I have experience working with programming languages such as Python, Java, and C++, as well as engineering tools including MATLAB, AutoCAD, and HOMER Pro. I am particularly interested in renewable energy systems, solar energy, electrical power systems, artificial intelligence, and engineering simulation.
 
-I am passionate about technology, programming, and engineering solutions, particularly in renewable energy and electrical power systems. I enjoy learning new technologies and developing my technical skills.
+Currently, I am developing my programming skills and learning OpenCV and Computer Vision. I enjoy exploring new technologies, expanding my knowledge, and discovering how programming and engineering can work together to solve real-world problems.
 
-Education
+I believe that continuous learning, curiosity, and dedication are essential for professional growth, and I look forward to developing my skills and contributing to meaningful engineering projects.
 
-Master's Degree: Electrical and Electronics Engineering – Necmettin Erbakan University, Türkiye
-
-Bachelor's Degree: Electrical Engineering – University of Hargeisa, Somalia
-
-Programming Languages
-
-Python
-
-Java
-
-C++
-
-Engineering Software & Tools
-
-MATLAB
-
-AutoCAD
-
-HOMER Pro
-
-Areas of Interest
-
-Renewable Energy Systems
-
-Solar Energy
-
-Electrical Power Systems
-
-Artificial Intelligence
-
-Computer Vision
-
-Engineering Simulation
-
-Currently Learning
-
-I am currently improving my Python programming skills and learning OpenCV and Computer Vision. I am interested in applying these technologies to practical engineering problems.
-
-Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/roda-hussien-0aaa00442/
+Connect with me on LinkedIn:
+https://www.linkedin.com/in/roda-hussien-0aaa00442/
